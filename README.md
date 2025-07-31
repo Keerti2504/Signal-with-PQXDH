@@ -79,14 +79,14 @@ Server listens on port 12345 (default, configurable in code).
 2. **Start clients:**
 
 ```bash
-./client <server_ip> <client_id>
+./client 
 ```
 
 Example:
 
 ```bash
-./client 127.0.0.1 1
-./client 127.0.0.1 2
+./client 
+./client 
 ```
 
 3. **Key Exchange & Messaging Flow:**
