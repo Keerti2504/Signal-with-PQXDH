@@ -76,18 +76,12 @@ Adjust linker flags if libraries are installed in non-standard paths.
 
 Server listens on port 12345 (default, configurable in code).
 
-2. **Start clients:**
+2. **Start clients in multiple terminals:**
 
 ```bash
 ./client 
 ```
 
-Example:
-
-```bash
-./client 
-./client 
-```
 
 3. **Key Exchange & Messaging Flow:**
 
